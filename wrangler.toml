@@ -1,0 +1,8 @@
+name = "backend-cw"
+main = "app.js"
+compatibility_date = "2026-01-17"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "67022951-db"
+database_id = "d3e1ec2f-2a55-4026-96f2-d1192be27bc6"
